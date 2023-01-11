@@ -6,8 +6,8 @@
 
 <h1 align="center">A Place Where We Really Do, And Then Deploy </h1>
 <div align="center">
-    <p>Student Organization with a students who were passionate in technology & programming in many fields, joining hands.</p>
-    <p>We organize events for High Schooler, do some projects together in hopes of making fun and/or useful open-source project for others!!</p>
+    <p>Student Organization with students who were passionate about technology & programming in many fields, joining hands.</p>
+    <p>We organize events for High schoolers, and do some projects together in hopes of making fun and/or useful open-source projects for others!!</p>
 </div>
 
 
