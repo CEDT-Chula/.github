@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/CEDT-Chula/.github/main/profile/logo.png" />
+  <img width="400" height="400"  src="https://raw.githubusercontent.com/CEDT-Chula/.github/main/profile/logo.png" />
   <br>
 </p>
 
