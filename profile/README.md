@@ -8,6 +8,7 @@
 <div align="center">
     <p>Student Organization with students who were passionate about technology & programming in many fields, joining hands.</p>
     <p>We organize events for High schoolers, do some projects together. Making fun and/or useful open-source projects for others!!</p>
+    <p>CEDT Unofficial Organization Maintained By Students</p>
 </div>
 
 
