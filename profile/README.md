@@ -18,5 +18,5 @@ and we like crossiant 🥐
 <!-- long ass meta data of our sector -->
 
 - Website: [https://CEDT-Chula.github.io/](https://cedt-chula.github.io)
-- Latest project: [project_name](---)
+- Latest project: [nattee_scraper](https://github.com/CEDT-Chula/nattee_scraper)
 
