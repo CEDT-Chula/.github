@@ -17,7 +17,7 @@ We're major in faculty of Engineering in Chulalongkorn University, Thailand. wit
 and we like crossiant 🥐
 <!-- long ass meta data of our sector -->
 
-- Website: [cedt.community](https://cedt.community/)
+- Website: [www.cedt.community](https://www.cedt.community/)
 - Latest project: [MCV_notifier_discordbot](https://cedt-chula.github.io) - Never miss an assignment by getting notified on discord
 - project: [MCV_video_finisher](https://github.com/CEDT-Chula/MCV-video-quiz-finisher) - Finished MCV video in one click
 - project: [nattee_scraper](https://github.com/CEDT-Chula/nattee_scraper) - Generate your Comprog test case faster than lightning
